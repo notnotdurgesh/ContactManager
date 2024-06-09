@@ -21,7 +21,7 @@ To get a local copy of this project up and running on your machine, follow these
 
 1. Clone this repository:
    ```
-   git clone [https://github.com/your-username/react-crud-contact-manager.git](https://github.com/notnotdurgesh/ContactManager.git)
+   git clone https://github.com/notnotdurgesh/ContactManager.git
    ```
 
 2. Navigate to the project directory:
